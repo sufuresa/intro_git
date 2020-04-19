@@ -3,3 +3,4 @@ first..tttt
 add line1
 add line2
 git remove
+git status
